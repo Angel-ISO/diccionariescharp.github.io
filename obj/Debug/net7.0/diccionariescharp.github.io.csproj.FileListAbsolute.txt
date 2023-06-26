@@ -1,0 +1,15 @@
+/home/apolm01-007/Downloads/diccionariescharp.github.io/bin/Debug/net7.0/diccionariescharp.github.io
+/home/apolm01-007/Downloads/diccionariescharp.github.io/bin/Debug/net7.0/diccionariescharp.github.io.deps.json
+/home/apolm01-007/Downloads/diccionariescharp.github.io/bin/Debug/net7.0/diccionariescharp.github.io.runtimeconfig.json
+/home/apolm01-007/Downloads/diccionariescharp.github.io/bin/Debug/net7.0/diccionariescharp.github.io.dll
+/home/apolm01-007/Downloads/diccionariescharp.github.io/bin/Debug/net7.0/diccionariescharp.github.io.pdb
+/home/apolm01-007/Downloads/diccionariescharp.github.io/obj/Debug/net7.0/diccionariescharp.github.io.csproj.AssemblyReference.cache
+/home/apolm01-007/Downloads/diccionariescharp.github.io/obj/Debug/net7.0/diccionariescharp.github.io.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-007/Downloads/diccionariescharp.github.io/obj/Debug/net7.0/diccionariescharp.github.io.AssemblyInfoInputs.cache
+/home/apolm01-007/Downloads/diccionariescharp.github.io/obj/Debug/net7.0/diccionariescharp.github.io.AssemblyInfo.cs
+/home/apolm01-007/Downloads/diccionariescharp.github.io/obj/Debug/net7.0/diccionariescharp.github.io.csproj.CoreCompileInputs.cache
+/home/apolm01-007/Downloads/diccionariescharp.github.io/obj/Debug/net7.0/diccionariescharp.github.io.dll
+/home/apolm01-007/Downloads/diccionariescharp.github.io/obj/Debug/net7.0/refint/diccionariescharp.github.io.dll
+/home/apolm01-007/Downloads/diccionariescharp.github.io/obj/Debug/net7.0/diccionariescharp.github.io.pdb
+/home/apolm01-007/Downloads/diccionariescharp.github.io/obj/Debug/net7.0/diccionariescharp.github.io.genruntimeconfig.cache
+/home/apolm01-007/Downloads/diccionariescharp.github.io/obj/Debug/net7.0/ref/diccionariescharp.github.io.dll
